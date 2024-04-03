@@ -1,5 +1,6 @@
 # Catálogo Telefônico
-#### (ou lista de contatos)
+##### (ou lista de contatos)
+
 
   Os códigos apresentados nesse repositório são fruto de um exercício pedido em minhas aulas na universidade.
   Este pequeno projeto/exercício também serviu para que eu pudesse exercitar a respeito de uma estrutura importante na computação: as **Tabelas Hash**, que no Python, são conhecidas como **Dicionários**.
